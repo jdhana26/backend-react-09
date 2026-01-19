@@ -2,11 +2,11 @@ import React from 'react';
 
 const RenderingPlayground = () => {
     // 1. Primitive
-    const name = "Dhanavel";
+    const name = "Sabareesh";
     const age = 28;
 
     // 2. Object
-    const user = { name: "Dhanavel", city: "Chennai" };
+    const user = { name: "Sabareesh", city: "Chennai" };
 
     // 3. Array of strings
     const skills = ["HTML", "CSS", "JS", "React"];

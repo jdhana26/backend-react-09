@@ -6,7 +6,7 @@ const ProfileCardFn = () => {
     return (
         <div className="profile-card">
             <img src={avatarUrl} alt="User Avatar" className="profile-avatar" />
-            <h3 className="profile-name">Dhanavel</h3>
+            <h3 className="profile-name">Sabareesh</h3>
             <p>Frontend Developer</p>
         </div>
     );
